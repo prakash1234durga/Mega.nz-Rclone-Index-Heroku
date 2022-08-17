@@ -2,7 +2,7 @@
 ---------------------
 Mega.nz-Rclone-Index-Heroku
 
-![Demo](https://raw.githubusercontent.com/developeranaz/Mega.nz-Rclone-Index-Heroku/main/.example_images/megaandindex.PNG)
+![Demo]([https://raw.githubusercontent.com/developeranaz/Mega.nz-Rclone-Index-Heroku/main/.example_images/megaandindex.PNG](https://github.com/prakash1234durga/Mega.nz-Rclone-Index-Heroku))
 
 #### Donate me BTC : 1J48LksQNiASuj48nwYATXdFzQSwdrnx7c
 ###### heroku-rclone-serve V3
